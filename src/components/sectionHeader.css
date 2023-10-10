@@ -1,0 +1,9 @@
+.section-header{
+    margin-left: auto;
+    margin-right: auto;
+}
+th {
+    width: 200px;
+    text-align: start;
+    padding: 10px 0;
+}
